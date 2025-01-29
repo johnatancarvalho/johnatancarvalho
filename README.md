@@ -3,7 +3,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 💡 &nbsp;Passionate about modern web development.\
-🧱 &nbsp;Working with React and Python for 3+ years.\
+🧱 &nbsp;Working with React for 5+ years.\
 🎓 &nbsp;Computer Science undergraduate.\
 📚 &nbsp;I have a masters degree in Electrical Engineering.\
 👪 &nbsp;In my free time, I enjoy spending time with my family.\
